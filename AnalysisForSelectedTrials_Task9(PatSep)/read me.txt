@@ -1,0 +1,1 @@
+This excel sheet shows correct and incorrect trial numbers by copying and pasting the result file of the task 9 (pattern separation). Use the data in "*Task9 Touch.csv".

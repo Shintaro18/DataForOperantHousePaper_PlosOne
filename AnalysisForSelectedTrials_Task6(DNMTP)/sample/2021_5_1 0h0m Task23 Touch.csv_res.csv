@@ -1,0 +1,6 @@
+DelayA,,,,DelayB,,,,DelayA,,,,DelayB,,,,
+All trials,,,,,,,,Selected trials,,,,,,,,
+Total trials,Correct trials,Incorrect trials,%Correct,Total trials,Correct trials,Incorrect trials,%Correct,Total trials,Correct trials,Incorrect trials,%Correct,Total trials,Correct trials,Incorrect trials,%Correct,FilePath
+12,7,5,58.333333333333336,12,5,7,41.66666666666667,1,1,0,100.0,3,3,0,100.0,C:/Box/1Python/PycharmProjects/OH_Task6(DNMTP)_analysis/sample/2021_5_1 0h0m Task23 Touch.csv
+60,40,20,66.66666666666666,59,40,19,67.79661016949152,46,32,14,69.56521739130434,38,29,9,76.31578947368422,C:/Box/1Python/PycharmProjects/OH_Task6(DNMTP)_analysis/sample/2021_5_2 0h0m Task23 Touch.csv
+56,40,16,71.42857142857143,59,40,19,67.79661016949152,44,35,9,79.54545454545455,56,38,18,67.85714285714286,C:/Box/1Python/PycharmProjects/OH_Task6(DNMTP)_analysis/sample/2021_5_3 0h0m Task23 Touch.csv

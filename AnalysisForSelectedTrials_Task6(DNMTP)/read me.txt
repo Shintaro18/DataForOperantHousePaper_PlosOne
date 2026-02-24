@@ -1,0 +1,13 @@
+[Name]
+AnalysisForSelectedTrials_Task6(DNMTP)
+
+[Usage]
+This program will analyze all and actual delay time-based selected trials .
+
+[Requirement]
+Python/Anaconda
+
+[How to use]
+1 Run "AnalysisForSelectedTrials_Task6(DNMTP).py".
+2 Choose ***Task6_Touch.csv files (you can choose multiple files).
+3 When the analysis is completed, it generates result file named as "*_res.csv".
