@@ -1,0 +1,599 @@
+TrialNum	Result	Panel	yyyy/mm/dd	h:m	s
+1	CueStart	1	2021/5/3	0:0	23.624
+1	CueCorrectTouch	1	2021/5/3	0:0	51.920
+1	1stCenterCorrectTouch	2	2021/5/3	0:0	54.302
+1	2ndCenterCorrectTouch	2	2021/5/3	0:1	6.758	8
+0	TestCorrectTouch	0	2021/5/3	0:1	9.396	8	0
+2	CueStart	1	2021/5/3	0:1	33.459
+2	CueCorrectTouch	1	2021/5/3	0:2	55.196
+2	1stCenterCorrectTouch	2	2021/5/3	0:2	58.465
+2	2ndCenterCorrectTouch	2	2021/5/3	0:3	15.731	8
+1	TestCorrectTouch	0	2021/5/3	0:3	19.619	8	0
+3	CueStart	0	2021/5/3	0:3	43.414
+3	CueCorrectTouch	0	2021/5/3	0:3	46.960
+3	1stCenterCorrectTouch	2	2021/5/3	0:3	50.226
+3	2ndCenterCorrectTouch	2	2021/5/3	0:4	7.812	12
+3	TestIncorrectTouch	0	2021/5/3	0:4	10.591	12	1
+4	CueStart	1	2021/5/3	0:4	45.562
+4	CueCorrectTouch	1	2021/5/3	0:5	16.966
+4	1stCenterCorrectTouch	2	2021/5/3	0:5	19.582
+4	2ndCenterCorrectTouch	2	2021/5/3	0:5	30.687	8
+4	TestIncorrectTouch	1	2021/5/3	0:5	38.593	8	0
+5	CueStart	0	2021/5/3	0:6	13.559
+5	CueCorrectTouch	0	2021/5/3	0:7	24.849
+5	1stCenterCorrectTouch	2	2021/5/3	0:7	31.592
+5	2ndCenterCorrectTouch	2	2021/5/3	0:7	39.775	8
+4	TestCorrectTouch	1	2021/5/3	0:7	42.956	8	0
+6	CueStart	0	2021/5/3	0:8	7.334
+6	CueCorrectTouch	0	2021/5/3	0:8	12.706
+6	1stCenterCorrectTouch	2	2021/5/3	0:8	16.102
+6	2ndCenterCorrectTouch	2	2021/5/3	0:8	28.684	12
+5	TestCorrectTouch	1	2021/5/3	0:8	31.949	12	1
+7	CueStart	1	2021/5/3	0:8	55.474
+7	CueCorrectTouch	1	2021/5/3	0:9	2.868
+7	1stCenterCorrectTouch	2	2021/5/3	0:9	5.178
+7	2ndCenterCorrectTouch	2	2021/5/3	0:9	19.47	12
+6	TestCorrectTouch	0	2021/5/3	0:9	21.414	12	1
+8	CueStart	1	2021/5/3	0:9	45.553
+8	CueCorrectTouch	1	2021/5/3	0:9	49.708
+8	1stCenterCorrectTouch	2	2021/5/3	0:9	54.189
+8	2ndCenterCorrectTouch	2	2021/5/3	0:10	7.395	8
+8	TestIncorrectTouch	1	2021/5/3	0:10	11.147	8	0
+9	CueStart	0	2021/5/3	0:10	46.146
+9	CueCorrectTouch	0	2021/5/3	0:10	59.933
+9	1stCenterCorrectTouch	2	2021/5/3	0:11	2.129
+9	2ndCenterCorrectTouch	2	2021/5/3	0:11	14.192	12
+8	TestCorrectTouch	1	2021/5/3	0:11	18.595	12	1
+10	CueStart	0	2021/5/3	0:11	42.96
+10	CueCorrectTouch	0	2021/5/3	0:12	50.411
+10	1stCenterCorrectTouch	2	2021/5/3	0:12	54.356
+10	2ndCenterCorrectTouch	2	2021/5/3	0:13	6.782	12
+9	TestCorrectTouch	1	2021/5/3	0:13	11.435	12	1
+11	CueStart	1	2021/5/3	0:13	35.119
+11	CueCorrectTouch	1	2021/5/3	0:13	41.227
+11	1stCenterCorrectTouch	2	2021/5/3	0:13	46.794
+11	2ndCenterCorrectTouch	2	2021/5/3	0:13	54.705	8
+10	TestCorrectTouch	0	2021/5/3	0:13	59.41	8	0
+12	CueStart	1	2021/5/3	0:14	22.965
+12	CueCorrectTouch	1	2021/5/3	0:14	30.433
+12	1stCenterCorrectTouch	2	2021/5/3	0:14	32.233
+12	2ndCenterCorrectTouch	2	2021/5/3	0:14	45.8	12
+12	TestIncorrectTouch	1	2021/5/3	0:14	48.603	12	1
+13	CueStart	0	2021/5/3	0:15	23.673
+13	CueCorrectTouch	0	2021/5/3	0:15	25.264
+13	1stCenterCorrectTouch	2	2021/5/3	0:15	28.750
+13	2ndCenterCorrectTouch	2	2021/5/3	0:15	46.144	12
+12	TestCorrectTouch	1	2021/5/3	0:15	49.470	12	1
+14	CueStart	0	2021/5/3	0:16	12.856
+14	CueCorrectTouch	0	2021/5/3	0:17	59.601
+14	1stCenterCorrectTouch	2	2021/5/3	0:18	1.968
+14	2ndCenterCorrectTouch	2	2021/5/3	0:18	10.336	8
+13	TestCorrectTouch	1	2021/5/3	0:18	14.293	8	0
+15	CueStart	1	2021/5/3	0:18	37.838
+15	CueCorrectTouch	1	2021/5/3	0:19	3.568
+15	1stCenterCorrectTouch	2	2021/5/3	0:19	6.81
+15	2ndCenterCorrectTouch	2	2021/5/3	0:19	18.6	12
+14	TestCorrectTouch	0	2021/5/3	0:19	21.748	12	1
+16	CueStart	1	2021/5/3	0:19	45.349
+16	CueCorrectTouch	1	2021/5/3	0:22	8.968
+16	1stCenterCorrectTouch	2	2021/5/3	0:22	19.1
+16	2ndCenterCorrectTouch	2	2021/5/3	0:22	27.204	8
+16	TestIncorrectTouch	1	2021/5/3	0:22	30.318	8	0
+17	CueStart	0	2021/5/3	0:23	5.352
+17	CueCorrectTouch	0	2021/5/3	0:23	18.330
+17	1stCenterCorrectTouch	2	2021/5/3	0:23	20.769
+17	2ndCenterCorrectTouch	2	2021/5/3	0:23	29.440	8
+16	TestCorrectTouch	1	2021/5/3	0:23	33.391	8	0
+18	CueStart	0	2021/5/3	0:23	56.858
+18	CueCorrectTouch	0	2021/5/3	0:24	57.246
+18	1stCenterCorrectTouch	2	2021/5/3	0:25	0.308
+18	2ndCenterCorrectTouch	2	2021/5/3	0:25	12.326	12
+17	TestCorrectTouch	1	2021/5/3	0:25	16.139	12	1
+19	CueStart	1	2021/5/3	0:25	39.655
+19	CueCorrectTouch	1	2021/5/3	1:5	36.515
+19	1stCenterCorrectTouch	2	2021/5/3	1:5	43.14
+19	2ndCenterCorrectTouch	2	2021/5/3	1:5	53.188	8
+19	TestIncorrectTouch	1	2021/5/3	1:5	58.106	8	0
+20	CueStart	0	2021/5/3	1:6	33.159
+20	CueCorrectTouch	0	2021/5/3	1:8	41.897
+20	1stCenterCorrectTouch	2	2021/5/3	1:8	51.863
+20	2ndCenterCorrectTouch	2	2021/5/3	1:9	0.491	8
+19	TestCorrectTouch	1	2021/5/3	1:9	4.181	8	0
+21	CueStart	1	2021/5/3	1:9	27.870
+21	CueCorrectTouch	1	2021/5/3	1:10	33.284
+21	1stCenterCorrectTouch	2	2021/5/3	1:10	36.150
+21	2ndCenterCorrectTouch	2	2021/5/3	1:10	50.19	12
+20	TestCorrectTouch	0	2021/5/3	1:10	53.155	12	1
+22	CueStart	0	2021/5/3	1:11	16.969
+22	CueCorrectTouch	0	2021/5/3	1:11	30.433
+22	1stCenterCorrectTouch	2	2021/5/3	1:11	36.965
+22	2ndCenterCorrectTouch	2	2021/5/3	1:11	44.933	8
+22	TestIncorrectTouch	0	2021/5/3	1:11	49.525	8	0
+23	CueStart	1	2021/5/3	1:12	24.564
+23	CueCorrectTouch	1	2021/5/3	1:13	19.752
+23	1stCenterCorrectTouch	2	2021/5/3	1:13	22.305
+23	2ndCenterCorrectTouch	2	2021/5/3	1:13	45.969	8
+22	TestCorrectTouch	0	2021/5/3	1:13	53.75	8	0
+24	CueStart	1	2021/5/3	1:14	17.244
+24	CueCorrectTouch	1	2021/5/3	1:14	27.875
+24	1stCenterCorrectTouch	2	2021/5/3	1:14	31.222
+24	2ndCenterCorrectTouch	2	2021/5/3	1:14	47.557	12
+24	TestIncorrectTouch	1	2021/5/3	1:14	51.811	12	1
+25	CueStart	0	2021/5/3	1:15	26.851
+25	CueCorrectTouch	0	2021/5/3	1:15	28.881
+25	1stCenterCorrectTouch	2	2021/5/3	1:15	33.618
+25	2ndCenterCorrectTouch	2	2021/5/3	1:15	41.714	8
+24	TestCorrectTouch	1	2021/5/3	1:15	45.618	8	0
+26	CueStart	1	2021/5/3	1:16	9.58
+26	CueCorrectTouch	1	2021/5/3	1:16	14.256
+26	1stCenterCorrectTouch	2	2021/5/3	1:16	18.898
+26	2ndCenterCorrectTouch	2	2021/5/3	1:16	30.834	12
+25	TestCorrectTouch	0	2021/5/3	1:16	34.337	12	1
+27	CueStart	1	2021/5/3	1:16	58.968
+27	CueCorrectTouch	1	2021/5/3	1:17	12.193
+27	1stCenterCorrectTouch	2	2021/5/3	1:17	14.977
+27	2ndCenterCorrectTouch	2	2021/5/3	1:17	23.346	8
+26	TestCorrectTouch	0	2021/5/3	1:17	25.937	8	0
+28	CueStart	0	2021/5/3	1:17	50.154
+28	CueCorrectTouch	0	2021/5/3	1:18	4.82
+28	1stCenterCorrectTouch	2	2021/5/3	1:18	6.682
+28	2ndCenterCorrectTouch	2	2021/5/3	1:18	19.924	12
+28	TestIncorrectTouch	0	2021/5/3	1:18	24.351	12	1
+29	CueStart	1	2021/5/3	1:18	59.336
+29	CueCorrectTouch	1	2021/5/3	1:19	26.356
+29	1stCenterCorrectTouch	2	2021/5/3	1:19	29.800
+29	2ndCenterCorrectTouch	2	2021/5/3	1:19	42.542	12
+28	TestCorrectTouch	0	2021/5/3	1:19	44.851	12	1
+30	CueStart	0	2021/5/3	1:20	8.372
+30	CueCorrectTouch	0	2021/5/3	1:21	40.517
+30	1stCenterCorrectTouch	2	2021/5/3	1:21	42.968
+30	2ndCenterCorrectTouch	2	2021/5/3	1:21	51.254	8
+29	TestCorrectTouch	1	2021/5/3	1:21	55.815	8	0
+31	CueStart	1	2021/5/3	1:22	19.254
+31	CueCorrectTouch	1	2021/5/3	1:22	41.971
+31	1stCenterCorrectTouch	2	2021/5/3	1:22	44.505
+31	2ndCenterCorrectTouch	2	2021/5/3	1:22	54.447	8
+30	TestCorrectTouch	0	2021/5/3	1:22	56.550	8	0
+32	CueStart	0	2021/5/3	1:23	20.436
+32	CueCorrectTouch	0	2021/5/3	1:23	25.766
+32	1stCenterCorrectTouch	2	2021/5/3	1:23	31.75
+32	2ndCenterCorrectTouch	2	2021/5/3	1:23	43.421	12
+32	TestIncorrectTouch	0	2021/5/3	1:23	47.264	12	1
+33	CueStart	1	2021/5/3	1:24	22.261
+33	CueCorrectTouch	1	2021/5/3	1:24	45.96
+33	1stCenterCorrectTouch	2	2021/5/3	1:24	48.275
+33	2ndCenterCorrectTouch	2	2021/5/3	1:24	56.306	8
+32	TestCorrectTouch	0	2021/5/3	1:24	59.379	8	0
+34	CueStart	1	2021/5/3	1:25	23.379
+34	CueCorrectTouch	1	2021/5/3	1:25	25.335
+34	1stCenterCorrectTouch	2	2021/5/3	1:25	30.191
+34	2ndCenterCorrectTouch	2	2021/5/3	1:25	44.657	12
+33	TestCorrectTouch	0	2021/5/3	1:25	47.735	12	1
+35	CueStart	0	2021/5/3	1:26	13.648
+35	CueCorrectTouch	0	2021/5/3	1:29	34.806
+35	1stCenterCorrectTouch	2	2021/5/3	1:29	38.464
+35	2ndCenterCorrectTouch	2	2021/5/3	1:29	47.843	8
+35	TestIncorrectTouch	0	2021/5/3	1:29	49.921	8	0
+36	CueStart	0	2021/5/3	1:30	24.970
+36	CueCorrectTouch	0	2021/5/3	1:30	45.584
+36	1stCenterCorrectTouch	2	2021/5/3	1:30	47.955
+36	2ndCenterCorrectTouch	2	2021/5/3	1:31	0.240	12
+36	TestIncorrectTouch	0	2021/5/3	1:31	3.957	12	1
+37	CueStart	1	2021/5/3	1:31	38.948
+37	CueCorrectTouch	1	2021/5/3	1:31	44.708
+37	1stCenterCorrectTouch	2	2021/5/3	1:31	47.177
+37	2ndCenterCorrectTouch	2	2021/5/3	1:31	59.138	12
+36	TestCorrectTouch	0	2021/5/3	1:32	4.30	12	1
+38	CueStart	1	2021/5/3	1:32	28.54
+38	CueCorrectTouch	1	2021/5/3	1:39	27.757
+38	1stCenterCorrectTouch	2	2021/5/3	1:39	30.130
+38	2ndCenterCorrectTouch	2	2021/5/3	1:39	38.121	8
+37	TestCorrectTouch	0	2021/5/3	1:39	40.840	8	0
+39	CueStart	0	2021/5/3	1:40	4.628
+39	CueCorrectTouch	0	2021/5/3	1:40	7.354
+39	1stCenterCorrectTouch	2	2021/5/3	1:40	11.94
+39	2ndCenterCorrectTouch	2	2021/5/3	1:40	24.200	12
+38	TestCorrectTouch	1	2021/5/3	1:40	28.185	12	1
+40	CueStart	1	2021/5/3	1:40	51.433
+40	CueCorrectTouch	1	2021/5/3	1:41	8.147
+40	1stCenterCorrectTouch	2	2021/5/3	1:41	10.609
+40	2ndCenterCorrectTouch	2	2021/5/3	1:41	19.382	8
+39	TestCorrectTouch	0	2021/5/3	1:41	21.703	8	0
+41	CueStart	0	2021/5/3	1:41	45.432
+41	CueCorrectTouch	0	2021/5/3	1:41	49.88
+41	1stCenterCorrectTouch	2	2021/5/3	1:41	56.580
+41	2ndCenterCorrectTouch	2	2021/5/3	1:42	8.510	12
+41	TestIncorrectTouch	0	2021/5/3	1:42	12.412	12	1
+42	CueStart	1	2021/5/3	1:42	47.452
+42	CueCorrectTouch	1	2021/5/3	1:43	25.514
+42	1stCenterCorrectTouch	2	2021/5/3	1:43	28.463
+42	2ndCenterCorrectTouch	2	2021/5/3	1:43	37.64	8
+41	TestCorrectTouch	0	2021/5/3	1:43	42.8	8	0
+43	CueStart	0	2021/5/3	1:44	6.65
+43	CueCorrectTouch	0	2021/5/3	1:44	24.381
+43	1stCenterCorrectTouch	2	2021/5/3	1:44	25.854
+43	2ndCenterCorrectTouch	2	2021/5/3	1:44	33.827	8
+43	TestIncorrectTouch	0	2021/5/3	1:44	37.151	8	0
+44	CueStart	0	2021/5/3	1:45	12.162
+44	CueCorrectTouch	0	2021/5/3	1:45	29.223
+44	1stCenterCorrectTouch	2	2021/5/3	1:45	31.585
+44	2ndCenterCorrectTouch	2	2021/5/3	1:45	43.655	12
+43	TestCorrectTouch	1	2021/5/3	1:45	46.333	12	1
+45	CueStart	1	2021/5/3	1:46	9.635
+45	CueCorrectTouch	1	2021/5/3	2:15	37.244
+45	1stCenterCorrectTouch	2	2021/5/3	2:15	39.919
+45	2ndCenterCorrectTouch	2	2021/5/3	2:15	48.437	8
+44	TestCorrectTouch	0	2021/5/3	2:15	51.287	8	0
+46	CueStart	1	2021/5/3	2:16	15.227
+46	CueCorrectTouch	1	2021/5/3	2:17	16.921
+46	1stCenterCorrectTouch	2	2021/5/3	2:17	22.992
+46	2ndCenterCorrectTouch	2	2021/5/3	2:17	35.707	12
+45	TestCorrectTouch	0	2021/5/3	2:17	38.846	12	1
+47	CueStart	0	2021/5/3	2:18	2.856
+47	CueCorrectTouch	0	2021/5/3	2:18	5.292
+47	1stCenterCorrectTouch	2	2021/5/3	2:18	7.606
+47	2ndCenterCorrectTouch	2	2021/5/3	2:18	20.123	12
+46	TestCorrectTouch	1	2021/5/3	2:18	22.989	12	1
+48	CueStart	1	2021/5/3	2:18	46.865
+48	CueCorrectTouch	1	2021/5/3	2:19	0.448
+48	1stCenterCorrectTouch	2	2021/5/3	2:19	6.129
+48	2ndCenterCorrectTouch	2	2021/5/3	2:19	15.242	8
+47	TestCorrectTouch	0	2021/5/3	2:19	17.58	8	0
+49	CueStart	1	2021/5/3	2:19	41.567
+49	CueCorrectTouch	1	2021/5/3	2:20	7.582
+49	1stCenterCorrectTouch	2	2021/5/3	2:20	10.75
+49	2ndCenterCorrectTouch	2	2021/5/3	2:20	22.714	12
+49	TestIncorrectTouch	1	2021/5/3	2:20	33.935	12	1
+50	CueStart	0	2021/5/3	2:21	8.946
+50	CueCorrectTouch	0	2021/5/3	2:21	11.454
+50	1stCenterCorrectTouch	2	2021/5/3	2:21	15.652
+50	2ndCenterCorrectTouch	2	2021/5/3	2:21	24.959	8
+49	TestCorrectTouch	1	2021/5/3	2:21	28.257	8	0
+51	CueStart	1	2021/5/3	2:21	51.778
+51	CueCorrectTouch	1	2021/5/3	2:21	52.926
+51	1stCenterCorrectTouch	2	2021/5/3	2:21	55.801
+51	2ndCenterCorrectTouch	2	2021/5/3	2:22	4.93	8
+50	TestCorrectTouch	0	2021/5/3	2:22	7.865	8	0
+52	CueStart	0	2021/5/3	2:22	31.644
+52	CueCorrectTouch	0	2021/5/3	2:22	40.855
+52	1stCenterCorrectTouch	2	2021/5/3	2:22	43.127
+52	2ndCenterCorrectTouch	2	2021/5/3	2:22	56.575	12
+51	TestCorrectTouch	1	2021/5/3	2:23	4.517	12	1
+53	CueStart	1	2021/5/3	2:23	27.837
+53	CueCorrectTouch	1	2021/5/3	2:26	50.341
+53	1stCenterCorrectTouch	2	2021/5/3	2:26	52.346
+53	2ndCenterCorrectTouch	2	2021/5/3	2:27	4.918	12
+52	TestCorrectTouch	0	2021/5/3	2:27	8.523	12	1
+54	CueStart	0	2021/5/3	2:27	32.552
+54	CueCorrectTouch	0	2021/5/3	2:27	42.530
+54	1stCenterCorrectTouch	2	2021/5/3	2:27	45.310
+54	2ndCenterCorrectTouch	2	2021/5/3	2:27	53.738	8
+53	TestCorrectTouch	1	2021/5/3	2:27	58.958	8	0
+55	CueStart	0	2021/5/3	2:28	22.926
+55	CueCorrectTouch	0	2021/5/3	2:28	41.372
+55	1stCenterCorrectTouch	2	2021/5/3	2:28	44.54
+55	2ndCenterCorrectTouch	2	2021/5/3	2:28	57.370	12
+54	TestCorrectTouch	1	2021/5/3	2:29	0.556	12	1
+56	CueStart	1	2021/5/3	2:29	23.965
+56	CueCorrectTouch	1	2021/5/3	2:30	45.982
+56	1stCenterCorrectTouch	2	2021/5/3	2:30	49.268
+56	2ndCenterCorrectTouch	2	2021/5/3	2:30	57.254	8
+55	TestCorrectTouch	0	2021/5/3	2:31	0.827	8	0
+57	CueStart	1	2021/5/3	2:31	25.135
+57	CueCorrectTouch	1	2021/5/3	2:31	30.265
+57	1stCenterCorrectTouch	2	2021/5/3	2:31	32.289
+57	2ndCenterCorrectTouch	2	2021/5/3	2:31	40.206	8
+56	TestCorrectTouch	0	2021/5/3	2:31	43.104	8	0
+58	CueStart	0	2021/5/3	2:32	7.52
+58	CueCorrectTouch	0	2021/5/3	2:32	7.524
+58	1stCenterCorrectTouch	2	2021/5/3	2:32	15.193
+58	2ndCenterCorrectTouch	2	2021/5/3	2:32	27.677	12
+58	TestIncorrectTouch	0	2021/5/3	2:32	30.494	12	1
+59	CueStart	0	2021/5/3	2:33	5.457
+59	CueCorrectTouch	0	2021/5/3	2:33	58.897
+59	1stCenterCorrectTouch	2	2021/5/3	2:34	1.6
+59	2ndCenterCorrectTouch	2	2021/5/3	2:34	10.350	8
+59	TestIncorrectTouch	0	2021/5/3	2:34	13.69	8	0
+60	CueStart	1	2021/5/3	2:34	48.50
+60	CueCorrectTouch	1	2021/5/3	2:35	3.864
+60	1stCenterCorrectTouch	2	2021/5/3	2:35	7.558
+60	2ndCenterCorrectTouch	2	2021/5/3	2:35	23.136	12
+59	TestCorrectTouch	0	2021/5/3	2:35	26.880	12	1
+61	CueStart	0	2021/5/3	2:35	50.838
+61	CueCorrectTouch	0	2021/5/3	2:38	15.372
+61	1stCenterCorrectTouch	2	2021/5/3	2:38	18.500
+61	2ndCenterCorrectTouch	2	2021/5/3	2:38	29.53	8
+61	TestIncorrectTouch	0	2021/5/3	2:38	34.408	8	0
+62	CueStart	1	2021/5/3	2:39	9.451
+62	CueCorrectTouch	1	2021/5/3	2:45	30.966
+62	1stCenterCorrectTouch	2	2021/5/3	2:45	34.584
+62	2ndCenterCorrectTouch	2	2021/5/3	2:45	45.487	8
+61	TestCorrectTouch	0	2021/5/3	2:45	48.407	8	0
+63	CueStart	0	2021/5/3	2:46	18.258
+63	CueCorrectTouch	0	2021/5/3	2:47	49.710
+63	1stCenterCorrectTouch	2	2021/5/3	2:47	55.36
+63	2ndCenterCorrectTouch	2	2021/5/3	2:48	7.242	12
+62	TestCorrectTouch	1	2021/5/3	2:48	10.595	12	1
+64	CueStart	1	2021/5/3	2:48	33.840
+64	CueCorrectTouch	1	2021/5/3	2:48	44.493
+64	1stCenterCorrectTouch	2	2021/5/3	2:48	47.260
+64	2ndCenterCorrectTouch	2	2021/5/3	2:48	59.210	12
+63	TestCorrectTouch	0	2021/5/3	2:49	2.282	12	1
+65	CueStart	1	2021/5/3	2:49	26.346
+65	CueCorrectTouch	1	2021/5/3	2:49	35.256
+65	1stCenterCorrectTouch	2	2021/5/3	2:49	37.60
+65	2ndCenterCorrectTouch	2	2021/5/3	2:49	47.611	8
+64	TestCorrectTouch	0	2021/5/3	2:49	53.735	8	0
+66	CueStart	0	2021/5/3	2:50	18.125
+66	CueCorrectTouch	0	2021/5/3	2:50	18.231
+66	1stCenterCorrectTouch	2	2021/5/3	2:50	27.847
+66	2ndCenterCorrectTouch	2	2021/5/3	2:50	40.172	12
+65	TestCorrectTouch	1	2021/5/3	2:50	42.938	12	1
+67	CueStart	0	2021/5/3	2:51	6.254
+67	CueCorrectTouch	0	2021/5/3	2:51	21.264
+67	1stCenterCorrectTouch	2	2021/5/3	2:51	26.579
+67	2ndCenterCorrectTouch	2	2021/5/3	2:51	39.770	12
+67	TestIncorrectTouch	0	2021/5/3	2:51	43.86	12	1
+68	CueStart	1	2021/5/3	2:52	18.59
+68	CueCorrectTouch	1	2021/5/3	2:52	25.170
+68	1stCenterCorrectTouch	2	2021/5/3	2:52	31.847
+68	2ndCenterCorrectTouch	2	2021/5/3	2:52	39.819	8
+67	TestCorrectTouch	0	2021/5/3	2:52	44.186	8	0
+69	CueStart	0	2021/5/3	2:53	7.868
+69	CueCorrectTouch	0	2021/5/3	2:53	33.821
+69	1stCenterCorrectTouch	2	2021/5/3	2:53	37.349
+69	2ndCenterCorrectTouch	2	2021/5/3	2:53	49.81	8
+68	TestCorrectTouch	1	2021/5/3	2:53	53.255	8	0
+70	CueStart	1	2021/5/3	2:54	16.565
+70	CueCorrectTouch	1	2021/5/3	2:54	19.370
+70	1stCenterCorrectTouch	2	2021/5/3	2:54	20.813
+70	2ndCenterCorrectTouch	2	2021/5/3	2:54	32.807	12
+69	TestCorrectTouch	0	2021/5/3	2:54	36.230	12	1
+71	CueStart	0	2021/5/3	2:54	59.873
+71	CueCorrectTouch	0	2021/5/3	2:55	8.618
+71	1stCenterCorrectTouch	2	2021/5/3	2:55	11.897
+71	2ndCenterCorrectTouch	2	2021/5/3	2:55	20.265	8
+70	TestCorrectTouch	1	2021/5/3	2:55	25.199	8	0
+72	CueStart	1	2021/5/3	2:55	48.733
+72	CueCorrectTouch	1	2021/5/3	2:56	7.428
+72	1stCenterCorrectTouch	2	2021/5/3	2:56	12.280
+72	2ndCenterCorrectTouch	2	2021/5/3	2:56	26.807	12
+72	TestIncorrectTouch	1	2021/5/3	2:56	30.168	12	1
+73	CueStart	0	2021/5/3	2:57	5.165
+73	CueCorrectTouch	0	2021/5/3	2:57	37.796
+73	1stCenterCorrectTouch	2	2021/5/3	2:57	40.600
+73	2ndCenterCorrectTouch	2	2021/5/3	2:57	53.243	12
+72	TestCorrectTouch	1	2021/5/3	2:57	56.907	12	1
+74	CueStart	1	2021/5/3	2:58	20.567
+74	CueCorrectTouch	1	2021/5/3	3:0	4.524
+74	1stCenterCorrectTouch	2	2021/5/3	3:0	8.632
+74	2ndCenterCorrectTouch	2	2021/5/3	3:0	16.641	8
+73	TestCorrectTouch	0	2021/5/3	3:0	20.409	8	0
+75	CueStart	1	2021/5/3	3:0	45.264
+75	CueCorrectTouch	1	2021/5/3	3:0	57.546
+75	1stCenterCorrectTouch	2	2021/5/3	3:0	59.254
+75	2ndCenterCorrectTouch	2	2021/5/3	3:1	11.706	12
+74	TestCorrectTouch	0	2021/5/3	3:1	14.347	12	1
+76	CueStart	0	2021/5/3	3:1	38.475
+76	CueCorrectTouch	0	2021/5/3	3:1	44.337
+76	1stCenterCorrectTouch	2	2021/5/3	3:1	48.186
+76	2ndCenterCorrectTouch	2	2021/5/3	3:2	2.260	12
+76	TestIncorrectTouch	0	2021/5/3	3:2	7.357	12	1
+77	CueStart	0	2021/5/3	3:2	42.345
+77	CueCorrectTouch	0	2021/5/3	3:2	52.869
+77	1stCenterCorrectTouch	2	2021/5/3	3:2	56.613
+77	2ndCenterCorrectTouch	2	2021/5/3	3:3	4.809	8
+76	TestCorrectTouch	1	2021/5/3	3:3	8.696	8	0
+78	CueStart	1	2021/5/3	3:3	32.156
+78	CueCorrectTouch	1	2021/5/3	3:3	55.295
+78	1stCenterCorrectTouch	2	2021/5/3	3:3	57.652
+78	2ndCenterCorrectTouch	2	2021/5/3	3:4	7.301	8
+78	TestIncorrectTouch	1	2021/5/3	3:4	11.890	8	0
+79	CueStart	0	2021/5/3	3:4	46.815
+79	CueCorrectTouch	0	2021/5/3	3:4	48.887
+79	1stCenterCorrectTouch	2	2021/5/3	3:5	12.451
+79	2ndCenterCorrectTouch	2	2021/5/3	3:5	31.25	12
+78	TestCorrectTouch	1	2021/5/3	3:5	34.643	12	1
+80	CueStart	0	2021/5/3	3:5	58.49
+80	CueCorrectTouch	0	2021/5/3	3:6	6.867
+80	1stCenterCorrectTouch	2	2021/5/3	3:6	14.361
+80	2ndCenterCorrectTouch	2	2021/5/3	3:6	26.304	12
+79	TestCorrectTouch	1	2021/5/3	3:6	30.675	12	1
+81	CueStart	1	2021/5/3	3:6	53.955
+81	CueCorrectTouch	1	2021/5/3	3:6	56.569
+81	1stCenterCorrectTouch	2	2021/5/3	3:6	58.942
+81	2ndCenterCorrectTouch	2	2021/5/3	3:7	11.540	8
+80	TestCorrectTouch	0	2021/5/3	3:7	18.888	8	0
+82	CueStart	1	2021/5/3	3:7	42.881
+82	CueCorrectTouch	1	2021/5/3	3:13	44.315
+82	1stCenterCorrectTouch	2	2021/5/3	3:13	47.800
+82	2ndCenterCorrectTouch	2	2021/5/3	3:13	55.822	8
+81	TestCorrectTouch	0	2021/5/3	3:14	0.151	8	0
+83	CueStart	0	2021/5/3	3:14	24.841
+83	CueCorrectTouch	0	2021/5/3	3:14	42.112
+83	1stCenterCorrectTouch	2	2021/5/3	3:14	43.456
+83	2ndCenterCorrectTouch	2	2021/5/3	3:14	55.872	12
+83	TestIncorrectTouch	0	2021/5/3	3:15	1.89	12	1
+84	CueStart	0	2021/5/3	3:15	36.66
+84	CueCorrectTouch	0	2021/5/3	3:16	13.901
+84	1stCenterCorrectTouch	2	2021/5/3	3:16	15.759
+84	2ndCenterCorrectTouch	2	2021/5/3	3:16	29.592	12
+83	TestCorrectTouch	1	2021/5/3	3:16	35.715	12	1
+85	CueStart	1	2021/5/3	3:16	59.163
+85	CueCorrectTouch	1	2021/5/3	3:26	39.550
+85	1stCenterCorrectTouch	2	2021/5/3	3:26	45.132
+85	2ndCenterCorrectTouch	2	2021/5/3	3:26	59.151	8
+85	TestIncorrectTouch	1	2021/5/3	3:27	2.313	8	0
+86	CueStart	0	2021/5/3	3:27	37.377
+86	CueCorrectTouch	0	2021/5/3	3:27	47.703
+86	1stCenterCorrectTouch	2	2021/5/3	3:27	50.152
+86	2ndCenterCorrectTouch	2	2021/5/3	3:28	2.146	12
+86	TestIncorrectTouch	0	2021/5/3	3:28	5.966	12	1
+87	CueStart	1	2021/5/3	3:28	40.969
+87	CueCorrectTouch	1	2021/5/3	3:30	42.340
+87	1stCenterCorrectTouch	2	2021/5/3	3:30	47.699
+87	2ndCenterCorrectTouch	2	2021/5/3	3:31	4.237	12
+86	TestCorrectTouch	0	2021/5/3	3:31	6.530	12	1
+88	CueStart	0	2021/5/3	3:31	34.651
+88	CueCorrectTouch	0	2021/5/3	3:39	52.655
+88	1stCenterCorrectTouch	2	2021/5/3	3:39	58.176
+88	2ndCenterCorrectTouch	2	2021/5/3	3:40	7.24	8
+87	TestCorrectTouch	1	2021/5/3	3:40	12.386	8	0
+89	CueStart	1	2021/5/3	3:40	36.632
+89	CueCorrectTouch	1	2021/5/3	3:40	57.267
+89	1stCenterCorrectTouch	2	2021/5/3	3:41	0.487
+89	2ndCenterCorrectTouch	2	2021/5/3	3:41	13.162	12
+88	TestCorrectTouch	0	2021/5/3	3:41	17.569	12	1
+90	CueStart	1	2021/5/3	3:41	42.754
+90	CueCorrectTouch	1	2021/5/3	3:41	56.563
+90	1stCenterCorrectTouch	2	2021/5/3	3:41	59.136
+90	2ndCenterCorrectTouch	2	2021/5/3	3:42	11.334	12
+89	TestCorrectTouch	0	2021/5/3	3:42	17.895	12	1
+91	CueStart	0	2021/5/3	3:42	42.459
+91	CueCorrectTouch	0	2021/5/3	3:49	48.957
+91	1stCenterCorrectTouch	2	2021/5/3	3:50	0.59
+91	2ndCenterCorrectTouch	2	2021/5/3	3:50	9.281	8
+91	TestIncorrectTouch	0	2021/5/3	3:50	18.72	8	0
+92	CueStart	0	2021/5/3	3:50	53.29
+92	CueCorrectTouch	0	2021/5/3	3:55	50.457
+92	1stCenterCorrectTouch	2	2021/5/3	3:55	53.121
+92	2ndCenterCorrectTouch	2	2021/5/3	3:56	3.921	8
+92	TestIncorrectTouch	0	2021/5/3	3:56	6.843	8	0
+93	CueStart	1	2021/5/3	3:56	41.861
+93	CueCorrectTouch	1	2021/5/3	4:11	31.70
+93	1stCenterCorrectTouch	2	2021/5/3	4:11	34.433
+93	2ndCenterCorrectTouch	2	2021/5/3	4:11	49.55	12
+92	TestCorrectTouch	0	2021/5/3	4:11	51.375	12	1
+94	CueStart	1	2021/5/3	4:12	15.158
+94	CueCorrectTouch	1	2021/5/3	4:13	18.977
+94	1stCenterCorrectTouch	2	2021/5/3	4:13	49.763
+94	2ndCenterCorrectTouch	2	2021/5/3	4:13	58.524	8
+93	TestCorrectTouch	0	2021/5/3	4:14	1.179	8	0
+95	CueStart	0	2021/5/3	4:14	25.263
+95	CueCorrectTouch	0	2021/5/3	4:14	26.579
+95	1stCenterCorrectTouch	2	2021/5/3	4:14	29.433
+95	2ndCenterCorrectTouch	2	2021/5/3	4:14	37.657	8
+94	TestCorrectTouch	1	2021/5/3	4:14	40.867	8	0
+96	CueStart	0	2021/5/3	4:15	4.448
+96	CueCorrectTouch	0	2021/5/3	4:15	58.514
+96	1stCenterCorrectTouch	2	2021/5/3	4:16	1.537
+96	2ndCenterCorrectTouch	2	2021/5/3	4:16	13.810	12
+95	TestCorrectTouch	1	2021/5/3	4:16	17.89	12	1
+97	CueStart	1	2021/5/3	4:16	41.361
+97	CueCorrectTouch	1	2021/5/3	4:17	46.794
+97	1stCenterCorrectTouch	2	2021/5/3	4:17	49.865
+97	2ndCenterCorrectTouch	2	2021/5/3	4:18	2.763	12
+97	TestIncorrectTouch	1	2021/5/3	4:18	7.111	12	1
+98	CueStart	1	2021/5/3	4:18	42.142
+98	CueCorrectTouch	1	2021/5/3	4:23	29.325
+98	1stCenterCorrectTouch	2	2021/5/3	4:23	32.126
+98	2ndCenterCorrectTouch	2	2021/5/3	4:23	44.604	8
+97	TestCorrectTouch	0	2021/5/3	4:23	48.319	8	0
+99	CueStart	0	2021/5/3	4:24	12.322
+99	CueCorrectTouch	0	2021/5/3	4:24	15.706
+99	1stCenterCorrectTouch	2	2021/5/3	4:24	18.518
+99	2ndCenterCorrectTouch	2	2021/5/3	4:24	26.817	8
+99	TestIncorrectTouch	0	2021/5/3	4:24	32.659	8	0
+100	CueStart	0	2021/5/3	4:25	7.655
+100	CueCorrectTouch	0	2021/5/3	4:25	38.117
+100	1stCenterCorrectTouch	2	2021/5/3	4:25	39.103
+100	2ndCenterCorrectTouch	2	2021/5/3	4:25	53.183	12
+99	TestCorrectTouch	1	2021/5/3	4:25	55.261	12	1
+101	CueStart	1	2021/5/3	4:26	19.69
+101	CueCorrectTouch	1	2021/5/3	4:26	58.287
+101	1stCenterCorrectTouch	2	2021/5/3	4:27	1.880
+101	2ndCenterCorrectTouch	2	2021/5/3	4:27	12.560	8
+100	TestCorrectTouch	0	2021/5/3	4:27	15.164	8	0
+102	CueStart	0	2021/5/3	4:27	38.812
+102	CueCorrectTouch	0	2021/5/3	4:27	43.382
+102	1stCenterCorrectTouch	2	2021/5/3	4:27	48.302
+102	2ndCenterCorrectTouch	2	2021/5/3	4:28	0.367	12
+102	TestIncorrectTouch	0	2021/5/3	4:28	5.86	12	1
+103	CueStart	1	2021/5/3	4:28	40.61
+103	CueCorrectTouch	1	2021/5/3	4:28	40.871
+103	1stCenterCorrectTouch	2	2021/5/3	4:28	44.720
+103	2ndCenterCorrectTouch	2	2021/5/3	4:28	58.692	12
+102	TestCorrectTouch	0	2021/5/3	4:29	0.967	12	1
+104	CueStart	1	2021/5/3	4:29	25.461
+104	CueCorrectTouch	1	2021/5/3	4:29	40.26
+104	1stCenterCorrectTouch	2	2021/5/3	4:29	46.396
+104	2ndCenterCorrectTouch	2	2021/5/3	4:29	54.351	8
+103	TestCorrectTouch	0	2021/5/3	4:29	57.819	8	0
+105	CueStart	0	2021/5/3	4:30	21.960
+105	CueCorrectTouch	0	2021/5/3	4:33	25.503
+105	1stCenterCorrectTouch	2	2021/5/3	4:33	29.825
+105	2ndCenterCorrectTouch	2	2021/5/3	4:33	42.254	12
+104	TestCorrectTouch	1	2021/5/3	4:33	45.94	12	1
+106	CueStart	0	2021/5/3	4:34	8.757
+106	CueCorrectTouch	0	2021/5/3	4:36	37.191
+106	1stCenterCorrectTouch	2	2021/5/3	4:36	41.177
+106	2ndCenterCorrectTouch	2	2021/5/3	4:36	55.192	12
+105	TestCorrectTouch	1	2021/5/3	4:37	1.147	12	1
+107	CueStart	1	2021/5/3	4:37	24.660
+107	CueCorrectTouch	1	2021/5/3	4:37	30.89
+107	1stCenterCorrectTouch	2	2021/5/3	4:37	34.911
+107	2ndCenterCorrectTouch	2	2021/5/3	4:37	46.111	8
+106	TestCorrectTouch	0	2021/5/3	4:37	47.883	8	0
+108	CueStart	1	2021/5/3	4:38	11.738
+108	CueCorrectTouch	1	2021/5/3	4:38	19.68
+108	1stCenterCorrectTouch	2	2021/5/3	4:38	21.376
+108	2ndCenterCorrectTouch	2	2021/5/3	4:38	33.716	12
+108	TestIncorrectTouch	1	2021/5/3	4:38	39.660	12	1
+109	CueStart	0	2021/5/3	4:39	14.655
+109	CueCorrectTouch	0	2021/5/3	4:39	33.190
+109	1stCenterCorrectTouch	2	2021/5/3	4:39	39.211
+109	2ndCenterCorrectTouch	2	2021/5/3	4:39	51.834	12
+109	TestIncorrectTouch	0	2021/5/3	4:39	55.817	12	1
+110	CueStart	0	2021/5/3	4:40	30.858
+110	CueCorrectTouch	0	2021/5/3	4:41	39.193
+110	1stCenterCorrectTouch	2	2021/5/3	4:41	41.637
+110	2ndCenterCorrectTouch	2	2021/5/3	4:41	50.148	8
+110	TestIncorrectTouch	0	2021/5/3	4:41	54.949	8	0
+111	CueStart	1	2021/5/3	4:42	29.946
+111	CueCorrectTouch	1	2021/5/3	4:42	49.381
+111	1stCenterCorrectTouch	2	2021/5/3	4:42	51.978
+111	2ndCenterCorrectTouch	2	2021/5/3	4:43	0.361	8
+110	TestCorrectTouch	0	2021/5/3	4:43	3.768	8	0
+112	CueStart	0	2021/5/3	4:43	27.722
+112	CueCorrectTouch	0	2021/5/3	4:56	58.306
+112	1stCenterCorrectTouch	2	2021/5/3	4:57	1.790
+112	2ndCenterCorrectTouch	2	2021/5/3	4:57	14.366	12
+111	TestCorrectTouch	1	2021/5/3	4:57	17.473	12	1
+113	CueStart	1	2021/5/3	4:57	42.75
+113	CueCorrectTouch	1	2021/5/3	4:58	50.548
+113	1stCenterCorrectTouch	2	2021/5/3	4:58	54.665
+113	2ndCenterCorrectTouch	2	2021/5/3	4:59	7.312	12
+113	TestIncorrectTouch	1	2021/5/3	4:59	12.444	12	1
+114	CueStart	1	2021/5/3	4:59	47.457
+114	CueCorrectTouch	1	2021/5/3	5:1	26.129
+114	1stCenterCorrectTouch	2	2021/5/3	5:1	28.692
+114	2ndCenterCorrectTouch	2	2021/5/3	5:1	47.812	8
+114	TestIncorrectTouch	1	2021/5/3	5:1	54.229	8	0
+115	CueStart	0	2021/5/3	5:2	29.228
+115	CueCorrectTouch	0	2021/5/3	5:2	30.596
+115	1stCenterCorrectTouch	2	2021/5/3	5:2	46.147
+115	2ndCenterCorrectTouch	2	2021/5/3	5:2	59.605	12
+114	TestCorrectTouch	1	2021/5/3	5:3	5.495	12	1
+Delay 8s : CorrectNum:40  IncorrectNum:16  TrialNum:56  Correct:71.43%  /  ValidCorrect:39  ValidWrong:15  ValidTotalNum:54  ValidCorrect:72.2%
+Delay 12s : CorrectNum:40  IncorrectNum:19  TrialNum:59  Correct:67.8%  /  ValidCorrect:40  ValidWrong:19  ValidTotalNum:59  ValidCorrect:67.8%
+TaskStartTime: 5/3 0:0:0.031
+TaskEndTime: 5/3 5:3:29.003
+DelayA: 8 sec
+DelayB: 12 sec
+MaxCorrectNum: 80
+MaxTrialNum: 999
+TimeLimit: 600 min
+PunishDur: 15 sec
+LickDur: 2 sec
+Iti: 20 sec
+ValidDelay%: 130 %
+RateTh: 75 %
+DayTh: 1 day
+Seed: 38
+NextTask: 23
+TaskType: DNMS2
+WaterCueType: Normal
+PunishWithLight: ON
+RecordFPS: 5
+AWS: OFF
+AWS_Latency: 20
